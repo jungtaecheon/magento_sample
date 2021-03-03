@@ -1,0 +1,1 @@
+/Users/jungtaecheon/Desktop/magento_project/vendor/magento/module-search/view/frontend/web/js/form-mini.js
