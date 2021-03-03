@@ -1,0 +1,1 @@
+/Users/jungtaecheon/Desktop/magento_project/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js

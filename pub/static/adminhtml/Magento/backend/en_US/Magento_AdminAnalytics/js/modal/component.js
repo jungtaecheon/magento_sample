@@ -1,0 +1,1 @@
+/Users/jungtaecheon/Desktop/magento_project/vendor/magento/module-admin-analytics/view/adminhtml/web/js/modal/component.js
