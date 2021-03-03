@@ -43,6 +43,6 @@
 /var/package/*
 !/var/package/*.xml
 
-/vendor/*
+vendor/*
 
 .vscode/*
